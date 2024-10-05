@@ -1,0 +1,1 @@
+Person{name='Bartek', surname='Kołakowski', age=30}
